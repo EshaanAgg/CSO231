@@ -11,9 +11,10 @@ This reposiory contains all the relevant lab programs for the `CSO231` course.
 
 ## Lab File Completion Status
 
-| Question |              Source              | Status |
-| -------- | :------------------------------: | :----: |
-| 🟩 1     | [Zombie Processes](./source/1.c) |   🌟   |
+| Question |              Source               |       Explanation        | Status |
+| -------- | :-------------------------------: | :----------------------: | :----: |
+| 🟩 1A    | [Zombie Processes](./source/1A.c) | [Click me](source/1A.md) |   🌟   |
+| 🟩 1B    |   [PID Manager](./source/1B.c)    | [Click me](source/1B.md) |   🌟   |
 
 ## Using the repository
 
