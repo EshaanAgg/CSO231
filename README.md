@@ -10,3 +10,7 @@ This reposiory contains all the relevant lab programs for the `CSO231` course.
 - `Email :` eshaan.aggarwal.cse21@itbhu.ac.in
 
 ## Lab File Completion Status
+
+| Question |           Source           | Status |
+| -------- | :------------------------: | :----: |
+| 🟩 1     | [Zombie Processes](./1B.c) |   🌟   |
