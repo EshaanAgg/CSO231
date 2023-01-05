@@ -25,7 +25,3 @@ int main()
 
     return 0;
 }
-
-/*
-    Upon running the program, Line 16 never gets printed as the parent becomes a Zombie process.
-*/
