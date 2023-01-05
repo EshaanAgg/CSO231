@@ -11,6 +11,11 @@ This reposiory contains all the relevant lab programs for the `CSO231` course.
 
 ## Lab File Completion Status
 
-| Question |           Source           | Status |
-| -------- | :------------------------: | :----: |
-| 🟩 1     | [Zombie Processes](./1B.c) |   🌟   |
+| Question |              Source              | Status |
+| -------- | :------------------------------: | :----: |
+| 🟩 1     | [Zombie Processes](./source/1.c) |   🌟   |
+
+## Using the repository
+
+- You can view the `C` code of any program by using the ledger above.
+- You can find the compiled executables of all the program in the `binaries` folder which you can run directly from the `command line` in any `UNIX` based operating system.
